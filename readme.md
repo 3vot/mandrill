@@ -71,7 +71,8 @@ Prepare
 getMessage
  This method is called by MandrillService to generate the JSON String that will be sent to Mandrill API. Notice the use if r2_MandrillTo Helper to register recipients.
 
-```	global Map<String, Object> getMessage( ){
+```	
+global Map<String, Object> getMessage( ){
 		Map<String, Object> result = new Map<String, Object>();
 
 		List<Object> tos = new List<Object>();
@@ -105,7 +106,7 @@ If you want to send multiple personalized emails, use the following class as a t
 
 Finally recipient_metadata are used for web-hook or later analytics on Email Deliver-ability.
 
-`
+```
 global without sharing class r2_Mandrill_Lead_Sample implements iMandrillOperation{
 
 	global List<id> ids;
@@ -163,7 +164,7 @@ global without sharing class r2_Mandrill_Lead_Sample implements iMandrillOperati
 	}
 
 }
-`
+```
 
 
 

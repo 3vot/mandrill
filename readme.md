@@ -66,7 +66,7 @@ Mandrill Services looks for a class named r2_Mandrill_OBJECT_TEMPLATE where OBJE
 Mandrill Operation classes must implement r2_IMandrillOperation with the prepare and getMessage methods.
 
 Prepare
-	` void prepare( List<Id> ids ) get's a list of ids from the MandrillService, this Id's where passed by you to MandrillService.sendSync method. In this function you can query related data and store it for later use `
+ void prepare( List<Id> ids ) get's a list of ids from the MandrillService, this Id's where passed by you to MandrillService.sendSync method. In this function you can query related data and store it for later use
 
 getMessage
  This method is called by MandrillService to generate the JSON String that will be sent to Mandrill API. Notice the use if r2_MandrillTo Helper to register recipients.

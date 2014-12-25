@@ -13,7 +13,7 @@ This is not only an Integration with Mandrill but a pattern developers can use t
 
 3VOT for Salesforce and Mandrill provides an interface to send transaction emails. It makes it really easy and organized by using Object Oriented Programming.
 
-As a library it caters for all use cases. Emails can be send personalized for each recipient, the sames email can be sent to several recipients and personalize emails can be send to multiple recipients.
+As a library it caters for all use cases. Emails can be send personalized for each recipient, the same email can be sent to several recipients and personalized emails can be send to multiple recipients.
 
 3VOT philosophy is not Point and Click and is not One Size Fits All. In 3VOT we build products the way they should be. In this case we should be able to have a Template in Mandrill and a way to build merge variables in a every imaginable way, send those merge variables to Mandrill, so that emails are created and sent.
 
@@ -71,7 +71,7 @@ Prepare
 getMessage
  This method is called by MandrillService to generate the JSON String that will be sent to Mandrill API. Notice the use if r2_MandrillTo Helper to register recipients.
 
-`	global Map<String, Object> getMessage( ){
+```	global Map<String, Object> getMessage( ){
 		Map<String, Object> result = new Map<String, Object>();
 
 		List<Object> tos = new List<Object>();
@@ -86,7 +86,7 @@ getMessage
 
     return result;
 	}
-	`
+```
 
 
 ## Additional Setup

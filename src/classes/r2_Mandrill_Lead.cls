@@ -1,4 +1,6 @@
-global class Mandrill_Lead implements IMandrillOperation{
+
+
+global class r2_Mandrill_Lead implements IMandrillOperation{
 
 	global List<id> ids;
 

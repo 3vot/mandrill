@@ -1,4 +1,6 @@
-global without sharing class Mandrill_Lead_Sample implements iMandrillOperation{
+
+
+global without sharing class r2_Mandrill_Lead_Sample implements iMandrillOperation{
 
 	global List<id> ids;
 	global List<Lead> leads;
@@ -14,7 +16,7 @@ global without sharing class Mandrill_Lead_Sample implements iMandrillOperation{
 		List<Object> tos = new List<Object>();
 
 		for( Lead lead : this.leads ){
-			tos.add( new MandrillTo( lead.Name, lead.Email ) );
+			tos.add( new r2_MandrillTo( lead.Name, lead.Email ) );
 		}
 
     result.put( 'to', tos );
@@ -32,7 +34,7 @@ global without sharing class Mandrill_Lead_Sample implements iMandrillOperation{
 		List<Object> result = new List<Object>();
 
 		for( Lead lead : this.leads ){
-			MandrillMergeVar mergevar = new MandrillMergeVar( lead.email );
+			r2_MandrillMergeVar mergevar = new r2_MandrillMergeVar( lead.email );
 
 			mergevar.addVar( 'Name', lead.Name );
 
@@ -46,7 +48,7 @@ global without sharing class Mandrill_Lead_Sample implements iMandrillOperation{
 		List<Object> result = new List<Object>();
 
 		for( Lead lead : this.leads ){
-			MandrillMetadata metadata = new MandrillMetadata( lead.email );			
+			r2_MandrillMetadata metadata = new r2_MandrillMetadata( lead.email );			
 			metadata.addValue('id', lead.id);
 			result.add(metadata);
 		}

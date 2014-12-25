@@ -1,4 +1,4 @@
-global class Test_CalloutMock implements HttpCalloutMock {
+global class r2_MandrillCalloutMock implements HttpCalloutMock {
     // Implement this interface method
     global HTTPResponse respond(HTTPRequest req) {
         // Optionally, only send a mock response for a specific endpoint

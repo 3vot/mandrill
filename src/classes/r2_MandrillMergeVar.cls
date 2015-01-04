@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0c28fc157e6e051e9d71a9a549b9cd00edc336c1
 public class r2_MandrillMergeVar {
 	
 

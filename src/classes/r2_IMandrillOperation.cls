@@ -4,4 +4,5 @@ public interface r2_IMandrillOperation {
 	
 	void prepare( List<Id> ids );
 
+
 }

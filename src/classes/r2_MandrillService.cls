@@ -19,9 +19,15 @@
 
 global class r2_MandrillService{
 
-  global static integer lastStatus;
 
-  global static string namespace;
+  public static integer lastStatus;
+
+  public static string namespace;
+
+  @future(callout=true)
+  public static void send(){
+    //sendSync();
+  }
 
   private static string getApiKey(){
     //R2MandrillSetting__c setting = R2MandrillSetting__c.getOrgDefaults();
@@ -37,7 +43,6 @@ global class r2_MandrillService{
   global static void sendSync( string template , String sobjectIds ){
     
     r2_iMandrillOperation operation = getMandrillOperation(template, sobjectIds);
-
 
     String apiKey = getApiKey();
     if( apiKey == null ){
@@ -76,7 +81,9 @@ global class r2_MandrillService{
   return String.join(ids, ',');
  }
 
- global static string typeFromIds( List<Id> ids ){
+
+ public static string typeFromIds( List<Id> ids ){
+
  	string type = null;
  	Id firstId = ids.get(0);
  	Schema.SObjectType sType = firstId.getSobjectType();
@@ -99,10 +106,15 @@ global class r2_MandrillService{
 		mandrillOperation =  (r2_iMandrillOperation)Operation.newInstance();
  	}catch( Exception e ){}
 
- 		mandrillOperation.prepare(ids);
- 		return mandrillOperation;
-}
+
+ 	mandrillOperation.prepare(ids);
+ 	return mandrillOperation;
+ }
   
-  public class MandrillException extends Exception {}
+  public class MandrillException extends Exception {
+
+  }
+
+
 
 }

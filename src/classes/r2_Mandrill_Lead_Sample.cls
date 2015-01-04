@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 global without sharing class r2_Mandrill_Lead_Sample implements r2_iMandrillOperation{
+=======
+
+
+global without sharing class r2_Mandrill_Lead_Sample implements iMandrillOperation{
+>>>>>>> 0c28fc157e6e051e9d71a9a549b9cd00edc336c1
 
 	global List<id> ids;
 	global List<Lead> leads;

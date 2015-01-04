@@ -5,11 +5,11 @@
                 "STATIC"
             ], 
             "name": "lastStatus", 
-            "visibility": "GLOBAL", 
+            "visibility": "PUBLIC", 
             "references": [], 
             "location": {
                 "column": 25, 
-                "line": 22
+                "line": 23
             }, 
             "type": "Integer"
         }, 
@@ -18,11 +18,11 @@
                 "STATIC"
             ], 
             "name": "namespace", 
-            "visibility": "GLOBAL", 
+            "visibility": "PUBLIC", 
             "references": [], 
             "location": {
                 "column": 24, 
-                "line": 24
+                "line": 25
             }, 
             "type": "String"
         }
@@ -43,7 +43,7 @@
                 "references": [], 
                 "location": {
                     "column": 16, 
-                    "line": 106
+                    "line": 114
                 }, 
                 "name": "MandrillException"
             }, 
@@ -75,7 +75,7 @@
             "references": [], 
             "location": {
                 "column": 39, 
-                "line": 37
+                "line": 43
             }, 
             "name": "template"
         }, 
@@ -85,7 +85,7 @@
             "references": [], 
             "location": {
                 "column": 57, 
-                "line": 37
+                "line": 43
             }, 
             "name": "sobjectIds"
         }, 
@@ -95,7 +95,7 @@
             "references": [], 
             "location": {
                 "column": 27, 
-                "line": 39
+                "line": 45
             }, 
             "name": "operation"
         }, 
@@ -105,7 +105,7 @@
             "references": [], 
             "location": {
                 "column": 12, 
-                "line": 42
+                "line": 47
             }, 
             "name": "apiKey"
         }, 
@@ -115,7 +115,7 @@
             "references": [], 
             "location": {
                 "column": 24, 
-                "line": 48
+                "line": 53
             }, 
             "name": "postMap"
         }, 
@@ -125,7 +125,7 @@
             "references": [], 
             "location": {
                 "column": 24, 
-                "line": 52
+                "line": 57
             }, 
             "name": "message"
         }, 
@@ -135,7 +135,7 @@
             "references": [], 
             "location": {
                 "column": 8, 
-                "line": 56
+                "line": 61
             }, 
             "name": "h"
         }, 
@@ -145,7 +145,7 @@
             "references": [], 
             "location": {
                 "column": 15, 
-                "line": 57
+                "line": 62
             }, 
             "name": "req"
         }, 
@@ -155,7 +155,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 62
+                "line": 67
             }, 
             "name": "postJson"
         }, 
@@ -165,7 +165,7 @@
             "references": [], 
             "location": {
                 "column": 16, 
-                "line": 66
+                "line": 71
             }, 
             "name": "res"
         }, 
@@ -175,7 +175,7 @@
             "references": [], 
             "location": {
                 "column": 43, 
-                "line": 71
+                "line": 76
             }, 
             "name": "ids"
         }, 
@@ -185,7 +185,7 @@
             "references": [], 
             "location": {
                 "column": 46, 
-                "line": 75
+                "line": 80
             }, 
             "name": "ids"
         }, 
@@ -195,7 +195,7 @@
             "references": [], 
             "location": {
                 "column": 45, 
-                "line": 79
+                "line": 85
             }, 
             "name": "ids"
         }, 
@@ -205,7 +205,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 80
+                "line": 87
             }, 
             "name": "type"
         }, 
@@ -215,7 +215,7 @@
             "references": [], 
             "location": {
                 "column": 6, 
-                "line": 81
+                "line": 88
             }, 
             "name": "firstId"
         }, 
@@ -225,7 +225,7 @@
             "references": [], 
             "location": {
                 "column": 22, 
-                "line": 82
+                "line": 89
             }, 
             "name": "sType"
         }, 
@@ -235,7 +235,7 @@
             "references": [], 
             "location": {
                 "column": 66, 
-                "line": 88
+                "line": 95
             }, 
             "name": "template"
         }, 
@@ -245,7 +245,7 @@
             "references": [], 
             "location": {
                 "column": 83, 
-                "line": 88
+                "line": 95
             }, 
             "name": "sobjectIds"
         }, 
@@ -255,7 +255,7 @@
             "references": [], 
             "location": {
                 "column": 12, 
-                "line": 89
+                "line": 96
             }, 
             "name": "ids"
         }, 
@@ -265,7 +265,7 @@
             "references": [], 
             "location": {
                 "column": 10, 
-                "line": 90
+                "line": 97
             }, 
             "name": "objType"
         }, 
@@ -275,7 +275,7 @@
             "references": [], 
             "location": {
                 "column": 8, 
-                "line": 92
+                "line": 99
             }, 
             "name": "Operation"
         }, 
@@ -285,7 +285,7 @@
             "references": [], 
             "location": {
                 "column": 25, 
-                "line": 93
+                "line": 100
             }, 
             "name": "mandrillOperation"
         }
@@ -296,13 +296,28 @@
             "modifiers": [
                 "STATIC"
             ], 
+            "name": "send", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 28
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
             "name": "getApiKey", 
             "parameters": [], 
             "visibility": "PRIVATE", 
             "references": [], 
             "location": {
                 "column": 25, 
-                "line": 26
+                "line": 32
             }, 
             "returnType": "String", 
             "type": null
@@ -326,7 +341,7 @@
             "references": [], 
             "location": {
                 "column": 22, 
-                "line": 37
+                "line": 43
             }, 
             "returnType": "void", 
             "type": null
@@ -346,7 +361,7 @@
             "references": [], 
             "location": {
                 "column": 25, 
-                "line": 71
+                "line": 76
             }, 
             "returnType": "LIST", 
             "type": null
@@ -366,7 +381,7 @@
             "references": [], 
             "location": {
                 "column": 23, 
-                "line": 75
+                "line": 80
             }, 
             "returnType": "String", 
             "type": null
@@ -382,11 +397,11 @@
                     "name": "ids"
                 }
             ], 
-            "visibility": "GLOBAL", 
+            "visibility": "PUBLIC", 
             "references": [], 
             "location": {
                 "column": 23, 
-                "line": 79
+                "line": 85
             }, 
             "returnType": "String", 
             "type": null
@@ -410,7 +425,7 @@
             "references": [], 
             "location": {
                 "column": 38, 
-                "line": 88
+                "line": 95
             }, 
             "returnType": "r2_IMandrillOperation", 
             "type": null

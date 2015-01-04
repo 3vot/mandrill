@@ -1,5 +1,6 @@
 @isTest
 private class r2_MandrillService_Test {
+
 	
 	@isTest static void shouldSendAMessage() {
 		Test.setMock(HttpCalloutMock.class, new r2_MandrillCalloutMock());
@@ -45,7 +46,6 @@ private class r2_MandrillService_Test {
 		String type =  r2_MandrillService.typeFromIds( ids );
 		System.assertEquals(type, 'Account');
 	}
-
 		@isTest static void getMandrillOperationWithTemplate() {
 		Test.setMock(HttpCalloutMock.class, new r2_MandrillCalloutMock());
 

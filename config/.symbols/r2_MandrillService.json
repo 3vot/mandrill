@@ -1,0 +1,419 @@
+{
+    "properties": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "lastStatus", 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 25, 
+                "line": 22
+            }, 
+            "type": "Integer"
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "namespace", 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 24
+            }, 
+            "type": "String"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [
+        {
+            "properties": [], 
+            "externalReferences": [], 
+            "innerClasses": [], 
+            "interfaces": [], 
+            "constructors": [], 
+            "namespace": null, 
+            "name": "MandrillException", 
+            "tableDeclaration": {
+                "type": "MandrillException", 
+                "modifiers": [], 
+                "references": [], 
+                "location": {
+                    "column": 16, 
+                    "line": 106
+                }, 
+                "name": "MandrillException"
+            }, 
+            "key": null, 
+            "variables": [], 
+            "id": null, 
+            "methods": []
+        }
+    ], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": null, 
+    "name": "r2_MandrillService", 
+    "tableDeclaration": {
+        "type": "r2_MandrillService", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 14, 
+            "line": 20
+        }, 
+        "name": "r2_MandrillService"
+    }, 
+    "key": "01pj0000001hk5BAAQ", 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 37
+            }, 
+            "name": "template"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 57, 
+                "line": 37
+            }, 
+            "name": "sobjectIds"
+        }, 
+        {
+            "type": "r2_IMandrillOperation", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 27, 
+                "line": 39
+            }, 
+            "name": "operation"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 12, 
+                "line": 42
+            }, 
+            "name": "apiKey"
+        }, 
+        {
+            "type": "Map", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 48
+            }, 
+            "name": "postMap"
+        }, 
+        {
+            "type": "Map", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 24, 
+                "line": 52
+            }, 
+            "name": "message"
+        }, 
+        {
+            "type": "Http", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 8, 
+                "line": 56
+            }, 
+            "name": "h"
+        }, 
+        {
+            "type": "HttpRequest", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 15, 
+                "line": 57
+            }, 
+            "name": "req"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 62
+            }, 
+            "name": "postJson"
+        }, 
+        {
+            "type": "HttpResponse", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 66
+            }, 
+            "name": "res"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 43, 
+                "line": 71
+            }, 
+            "name": "ids"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 46, 
+                "line": 75
+            }, 
+            "name": "ids"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 45, 
+                "line": 79
+            }, 
+            "name": "ids"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 80
+            }, 
+            "name": "type"
+        }, 
+        {
+            "type": "Id", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 6, 
+                "line": 81
+            }, 
+            "name": "firstId"
+        }, 
+        {
+            "type": "SObjectType", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 82
+            }, 
+            "name": "sType"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 66, 
+                "line": 88
+            }, 
+            "name": "template"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 83, 
+                "line": 88
+            }, 
+            "name": "sobjectIds"
+        }, 
+        {
+            "type": "LIST", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 12, 
+                "line": 89
+            }, 
+            "name": "ids"
+        }, 
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 90
+            }, 
+            "name": "objType"
+        }, 
+        {
+            "type": "Type", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 8, 
+                "line": 92
+            }, 
+            "name": "Operation"
+        }, 
+        {
+            "type": "r2_IMandrillOperation", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 25, 
+                "line": 93
+            }, 
+            "name": "mandrillOperation"
+        }
+    ], 
+    "id": "01pj0000001hk5BAAQ", 
+    "methods": [
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getApiKey", 
+            "parameters": [], 
+            "visibility": "PRIVATE", 
+            "references": [], 
+            "location": {
+                "column": 25, 
+                "line": 26
+            }, 
+            "returnType": "String", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "sendSync", 
+            "parameters": [
+                {
+                    "type": "String", 
+                    "name": "template"
+                }, 
+                {
+                    "type": "String", 
+                    "name": "sobjectIds"
+                }
+            ], 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 22, 
+                "line": 37
+            }, 
+            "returnType": "void", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "idsToList", 
+            "parameters": [
+                {
+                    "type": "String", 
+                    "name": "ids"
+                }
+            ], 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 25, 
+                "line": 71
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "listToString", 
+            "parameters": [
+                {
+                    "type": "LIST", 
+                    "name": "ids"
+                }
+            ], 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 75
+            }, 
+            "returnType": "String", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "typeFromIds", 
+            "parameters": [
+                {
+                    "type": "LIST", 
+                    "name": "ids"
+                }
+            ], 
+            "visibility": "GLOBAL", 
+            "references": [], 
+            "location": {
+                "column": 23, 
+                "line": 79
+            }, 
+            "returnType": "String", 
+            "type": null
+        }, 
+        {
+            "modifiers": [
+                "STATIC"
+            ], 
+            "name": "getMandrillOperation", 
+            "parameters": [
+                {
+                    "type": "String", 
+                    "name": "template"
+                }, 
+                {
+                    "type": "String", 
+                    "name": "sobjectIds"
+                }
+            ], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 38, 
+                "line": 88
+            }, 
+            "returnType": "r2_IMandrillOperation", 
+            "type": null
+        }
+    ]
+}

@@ -1,0 +1,1515 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"stringValue"
+			],
+			[
+				"par",
+				"parsedValue"
+			],
+			[
+				"parsed",
+				"parsedValue"
+			],
+			[
+				"Cm",
+				"CompanyCategories__c"
+			],
+			[
+				"parse",
+				"parsedList"
+			],
+			[
+				"set",
+				"setOverwriteLead"
+			],
+			[
+				"valu",
+				"valueType"
+			],
+			[
+				"Cle",
+				"ClearbitSettings__c	[Sobject Name]"
+			],
+			[
+				"json",
+				"jsonResponse"
+			],
+			[
+				"com",
+				"commaList"
+			],
+			[
+				"Compan",
+				"CompanyCategories__c"
+			],
+			[
+				"Com",
+				"CompanyEmployees__c"
+			],
+			[
+				"for",
+				"forObj"
+			],
+			[
+				"Cl",
+				"cliente__c"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"movimientosDevolucio",
+				"PUBLIC movimientosDevolucionMalo(Cliente__c cliente) 	LIST"
+			],
+			[
+				"pr",
+				"productoCosto__c"
+			],
+			[
+				"te",
+				"t_subtotal_descuento"
+			],
+			[
+				"sub",
+				"t_subtotal_descuento"
+			],
+			[
+				"mo",
+				"MovimientoRelacionado__c"
+			],
+			[
+				"movi",
+				"movimientosFactura"
+			],
+			[
+				"ge",
+				"PUBLIC getStackTraceString() 	String"
+			],
+			[
+				"mov",
+				"PUBLIC movimientosOriginales	LIST"
+			],
+			[
+				"tipo",
+				"tipo_de_documento__c"
+			],
+			[
+				"ti",
+				"tipo_de_documento__c"
+			],
+			[
+				"Pro",
+				"ProductoCosto__c"
+			],
+			[
+				"movimi",
+				"movimientosMap"
+			],
+			[
+				"costo",
+				"ProductoCosto__c"
+			],
+			[
+				"Moi",
+				"Movimiento__c"
+			],
+			[
+				"Mov",
+				"movimientosMap"
+			],
+			[
+				"Movimi",
+				"Movimiento__c"
+			],
+			[
+				"des",
+				"descuento__c"
+			],
+			[
+				"su",
+				"subtotal__c"
+			],
+			[
+				"t",
+				"Total__c"
+			],
+			[
+				"Contro",
+				"Controller_Movimientos"
+			],
+			[
+				"prod",
+				"productosMap"
+			],
+			[
+				"pro",
+				"productosMap"
+			],
+			[
+				"total",
+				"total__c"
+			],
+			[
+				"tot",
+				"total__c"
+			],
+			[
+				"doc",
+				"documento__c"
+			],
+			[
+				"docu",
+				"documento"
+			],
+			[
+				"en",
+				"entradas"
+			],
+			[
+				"ref",
+				"referencia__c"
+			],
+			[
+				"s",
+				"subtotal__c"
+			],
+			[
+				"re",
+				"referencia__c"
+			],
+			[
+				"ob",
+				"observacion__c"
+			],
+			[
+				"can",
+				"ProductoCantidadPendiente__c"
+			],
+			[
+				"Procu",
+				"Producto__c"
+			],
+			[
+				"SubTota",
+				"SubTotal__c"
+			],
+			[
+				"movimien",
+				"movimiento__c"
+			],
+			[
+				"dev",
+				"devoluciones"
+			],
+			[
+				"dvol",
+				"Devolucion"
+			],
+			[
+				"De",
+				"Devolucion"
+			],
+			[
+				"a",
+				"PUBLIC addAll(SET elements) 	Boolean"
+			],
+			[
+				"on",
+				"onBeforeUpdateEach"
+			],
+			[
+				"Main",
+				"MaintenancePlans	[Custom Apex Class]"
+			],
+			[
+				"sMo",
+				"sModels"
+			],
+			[
+				"Burn",
+				"BurnRate__c"
+			],
+			[
+				"Mter",
+				"Meter__c"
+			],
+			[
+				"Bur",
+				"BurnRate__c"
+			],
+			[
+				"ass",
+				"assertNotEquals()"
+			],
+			[
+				"sM",
+				"sModel"
+			],
+			[
+				"Bu",
+				"burnRate__c"
+			],
+			[
+				"meter",
+				"meterDiff"
+			],
+			[
+				"bu",
+				"burnRate__c"
+			],
+			[
+				"Spe",
+				"SpecificModel__c"
+			],
+			[
+				"ad",
+				"addDays"
+			],
+			[
+				"mta",
+				"mTasks"
+			],
+			[
+				"Mainte",
+				"MaintenanceTask__c"
+			],
+			[
+				"main",
+				"maintenanceTasks"
+			],
+			[
+				"sel",
+				"PUBLIC selectBySpecificModel(Set smodelsIds) 	LIST"
+			],
+			[
+				"m",
+				"mtask"
+			],
+			[
+				"mt",
+				"mTasks"
+			],
+			[
+				"mai",
+				"maintenanceTasks"
+			],
+			[
+				"si",
+				"PUBLIC size() 	Integer"
+			],
+			[
+				"mTask",
+				"mTasksBySpecificModel"
+			],
+			[
+				"Maint",
+				"MaintenanceTasks	[Custom Apex Class]"
+			],
+			[
+				"smo",
+				"sModel2"
+			],
+			[
+				"Ass",
+				"assertEquals()"
+			],
+			[
+				"M",
+				"MaintenanceWindow__c"
+			],
+			[
+				"Spec",
+				"SpecificModels	[Custom Apex Class]"
+			],
+			[
+				"p",
+				"PUBLIC putAll(MAP entries) 	void"
+			],
+			[
+				"Va",
+				"valueOf"
+			],
+			[
+				"Model",
+				"Model__c"
+			],
+			[
+				"Sp",
+				"SpecificModel__c"
+			],
+			[
+				"nex",
+				"nextMeter"
+			],
+			[
+				"Mai",
+				"MaintenancePlans	[Custom Apex Class]"
+			],
+			[
+				"spe",
+				"SpecificModel"
+			],
+			[
+				"last",
+				"lastTask1"
+			],
+			[
+				"mainte",
+				"MaintenancePlan__c"
+			],
+			[
+				"mode",
+				"modelsMap"
+			],
+			[
+				"nextDa",
+				"nextDateTest"
+			],
+			[
+				"next",
+				"PRIVATE nextMeterTheory(MaintenancePlan__c mPlan, MaintenanceTask__c lastTask) 	Decimal"
+			],
+			[
+				"me",
+				"Meter__c"
+			],
+			[
+				"lastMe",
+				"lastMeterUpdate__c"
+			],
+			[
+				"ta",
+				"TaskDate__c"
+			],
+			[
+				"las",
+				"lastTask"
+			],
+			[
+				"days",
+				"daysToNextMeter"
+			],
+			[
+				"add",
+				"addDays"
+			],
+			[
+				"ra",
+				"ratePerDate"
+			],
+			[
+				"ne",
+				"nextMeter"
+			],
+			[
+				"curr",
+				"currentMeter"
+			],
+			[
+				"Ma",
+				"MaintenanceInterval__c"
+			],
+			[
+				"date",
+				"dateCounter"
+			],
+			[
+				"get",
+				"getRevision"
+			],
+			[
+				"mpl",
+				"mPlanD"
+			],
+			[
+				"mP",
+				"mPlanD"
+			],
+			[
+				"Tas",
+				"TaskDate__c"
+			],
+			[
+				"as",
+				"assertEquals()"
+			],
+			[
+				"Maintenance",
+				"MaintenanceInterval__c"
+			],
+			[
+				"mPl",
+				"mPlan"
+			],
+			[
+				"da",
+				"daysBetween"
+			],
+			[
+				"asser",
+				"assertEquals()"
+			],
+			[
+				"Date",
+				"nextDate"
+			],
+			[
+				"Ser",
+				"Service_WorkOrder	[Custom Apex Class]"
+			],
+			[
+				"v",
+				"valueOf"
+			],
+			[
+				"net",
+				"nextMeter"
+			],
+			[
+				"In",
+				"MaintenanceInterval__c"
+			],
+			[
+				"Smo",
+				"SpecificModel__c"
+			],
+			[
+				"Sm",
+				"SpecificModel__c"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"task",
+				"tasksToUpsert"
+			],
+			[
+				"all",
+				"allTasks"
+			],
+			[
+				"sModel",
+				"SModelMaintenancePlans"
+			],
+			[
+				"map",
+				"mapTasksBySpecificModelId"
+			],
+			[
+				"Min",
+				"MaintenanceTask__c"
+			],
+			[
+				"Lead",
+				"LeadSource"
+			],
+			[
+				"Lea",
+				"LeadSource"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/classes/r2_MandrillService.cls",
+			"settings":
+			{
+				"buffer_size": 3561,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/r2_MandrillTo.cls",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/r2_MandrillMetadata.cls",
+			"settings":
+			{
+				"buffer_size": 289,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "public class r2_MandrillMergeVar {\n	\n\n	public String rcpt;\n	public List<Object> vars = new List<Object>();\n\n	public r2_MandrillMergeVar( string email ) {\n		rcpt = email;\n	}\n\n	public void addVar( String name, Object value ){\n		Map<String,Object> var = new Map<String,Object>();\n		var.put('name', name);\n		var.put('content', value);\n		vars.add( var );\n	}\n\n\n}",
+			"file": "src/classes/r2_MandrillMergeVar.cls",
+			"file_size": 428,
+			"file_write_time": 130648544320000000,
+			"settings":
+			{
+				"buffer_size": 356,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/r2_MandrillCalloutMock.cls",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 71,
+				"line_ending": "Unix",
+				"name": ".gitignore"
+			}
+		},
+		{
+			"file": "src/classes/r2_IMandrillOperation.cls-meta.xml",
+			"settings":
+			{
+				"buffer_size": 174,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/r2_MandrillService_Test.cls",
+			"settings":
+			{
+				"buffer_size": 1760,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Mandrill.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/r2_IMandrillOperation.cls",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "global without sharing class r2_Mandrill_Lead_Sample implements r2_iMandrillOperation{\n\n\n	global List<id> ids;\n	global List<Lead> leads;\n\n	global void prepare( List<Id> ids ){\n		this.ids = ids;\n		this.leads =  [select id, name, email from Lead where Id in :ids];\n	}\n\n	global Map<String, Object> getMessage( ){\n		Map<String, Object> result = new Map<String, Object>();\n\n		List<Object> tos = new List<Object>();\n\n		for( Lead lead : this.leads ){\n			tos.add( new r2_MandrillTo( lead.Name, lead.Email ) );\n		}\n\n    result.put( 'to', tos );\n    \n    result.put('subject', 'Lead Email');\n\n    result.put( 'merge_vars', getContent() );\n\n    result.put( 'recipient_metadata', getMetadata() );\n\n    return result;\n	}\n\n	global List<Object> getContent( ){\n		List<Object> result = new List<Object>();\n\n		for( Lead lead : this.leads ){\n			r2_MandrillMergeVar mergevar = new r2_MandrillMergeVar( lead.email );\n\n			mergevar.addVar( 'Name', lead.Name );\n\n			result.add( mergevar );\n		}\n  \n    return result;\n	}\n\n	global  List<Object> getMetadata( ){\n		List<Object> result = new List<Object>();\n\n		for( Lead lead : this.leads ){\n			r2_MandrillMetadata metadata = new r2_MandrillMetadata( lead.email );			\n			metadata.addValue('id', lead.id);\n			result.add(metadata);\n		}\n\n	  return result;\n	}\n\n	\n\n\n\n}",
+			"file": "src/classes/r2_Mandrill_Lead_Sample.cls",
+			"file_size": 1438,
+			"file_write_time": 130648544320000000,
+			"settings":
+			{
+				"buffer_size": 1283,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/roberto/proyectos/mavensmate/Mandrill",
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src",
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src/classes"
+	],
+	"file_history":
+	[
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src/package.xml",
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src/classes/r2_Mandrill_Lead.cls-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src/classes/r2_Mandrill_Lead.cls",
+		"/Users/roberto/proyectos/mavensmate/Mandrill/src/classes/r2_r2_MandrillService_Test.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/HelperObjectCreator.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Controller_Widget.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Controller_Widget_Test.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Leads.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/ClearbitServiceTest.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/README.MD",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/ClearbitService.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Test_CalloutMock.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Util_Types.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/RemoteTKController.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/LeadServiceTest.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/triggers/Clearbits.trigger",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/ClearbitLogs.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/Clearbits.cls",
+		"/Users/roberto/proyectos/mavensmate/ClearbitSalesforce/src/classes/ThreeVotApiController.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/FactoryOperacion.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Update_Documento.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Documento.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Documento_After.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Oportunidad_After.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Movimiento.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Oportunidad.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Movimiento_After.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Helper_ObjectCreator.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Movimientos.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionNotaCredito.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionCompra.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Credito.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Documentos.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/InterfaceCommand.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/pages/invoice_toPdf.page",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/pages/InMaintenance.page",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/InterfaceOperacion.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Helper_BusinessRules.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionEntrada.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionDevolucion.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/CommandAnularMovimiento.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Test_Helper.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionDevolucionMalo.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/DocumentoException.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Diagnostics.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Anular.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Oportunidad.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/pages/cierrediario.page",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Helper_Documentos.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/FactoryAnulacion.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Helper_Chatter.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Helper_Email.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/IApexController.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/CommandChangeProductoInventario.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/OperacionFacturaCredito.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/triggers/Apply_Update_Documento_After.trigger",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Devolucion_Test.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/CommandChangeDocumentoSaldo.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Controller_Devolucion.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Test_Operacion_Movimientos.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Test_Operacion_AnularNotas.cls",
+		"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes/Test_Operacion_AnularMovimientos.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModels.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/MaintenanceTasks.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/Service_WorkOrder.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/Service_WorkOrder_Test_BDD.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/MaintenancePlans.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModelsTest.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/Service_WorkOrder_schedule.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-20.35.13.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-20.34.17.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-20.22.27.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/CustomButtomsTest.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/CustomButtons.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-19.57.51.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-19.55.12.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/triggers/SpecificModels.trigger",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModelSelector.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/objects/SpecificModel__c.object",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModels.cls-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/triggers/SpecificModels.trigger-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModelSelector.cls-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/SpecificModelsTest.cls-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/objects/Site.object",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/MaintenanceTaskSelector.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/MaintenancePlanSelector.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/Service_WorkOrder_Test_BDD.cls-meta.xml",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/Service_WorkOrder_Test.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/Models.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/ModelsTest.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/objects/Account.object",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/triggers/Models.trigger",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.39.33.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.39.07.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.35.54.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.31.53.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.26.57.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.16.41.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.00.56.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/MaintenanceException.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-09.00.15.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.46.49.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.43.39.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.39.58.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.17.31.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.10.31.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-17-08.10.18.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-16-20.28.22.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-16-20.24.49.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-16-20.23.17.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-16-20.20.18.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-16-19.33.04.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/Service_WorkOrder_DeleteTasks.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/objects/MaintenanceTask__c.object",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-14.23.28.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-14.22.41.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-14.21.56.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.54.34.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.52.32.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.43.52.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/fflib_SObjectSelectorTest.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/classes/fflib_SObjectSelector.cls",
+		"/Users/roberto/proyectos/mavensmate/Prod/src/objects/PricebookEntry.object",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.37.54.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.22.10.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-13.21.58.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-13-07.05.46.log",
+		"/Users/roberto/proyectos/mavensmate/Prod/apex-scripts/log/2014-11-12-20.35.44.log"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/roberto/proyectos/mavensmate/Rodco-Test/src/classes",
+			"/Users/roberto/proyectos/clay/clay-pres/wizard",
+			"/Users/roberto/proyectos/clay/3vot-clay",
+			"/Users/roberto/proyectos/clay/clay-pres/sfdemo",
+			"/Users/roberto/proyectos/fusion/3vot_fusion/apps/gardens",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules/loopback-datasource-juggler/lib",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules/loopback-datasource-juggler",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules/loopback-connector-postgresql",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/node_modules/loopback-datasource-juggler",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect",
+			"/Users/roberto/proyectos/rodco/servers/heroku-connect/models",
+			"/Users/roberto/proyectos/3vot/3vot-cli"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"***",
+			"EXECUTION_FINISHED",
+			"\"",
+			"insert",
+			"categories",
+			"Object>'",
+			"Object",
+			"debug",
+			"FactoryOperacion.create",
+			"factory",
+			"debug",
+			"Costo__c",
+			"***",
+			"})\n",
+			"***",
+			"debug",
+			"tipo",
+			"debug",
+			" productos",
+			"OP DEV",
+			"\n			",
+			"debug",
+			"debig",
+			"deb",
+			"movimientoFromProducto",
+			" productos",
+			"Test",
+			"debug",
+			"productos",
+			"debug",
+			"***",
+			"debug",
+			"System.debug",
+			"debug",
+			"movimientosDevolucion",
+			"upsert",
+			"***",
+			"DEBUG",
+			"days",
+			"Selector",
+			"***",
+			"nextDateFromMeter",
+			"***",
+			"frequencyInDays",
+			"intege",
+			"integer",
+			"Modernizr",
+			"init",
+			"scroll-section",
+			"Account",
+			"{3vot}",
+			"lbl-error",
+			"ProcessManager.process",
+			"create",
+			"load",
+			"small",
+			"attributes",
+			"toJSON",
+			"prima",
+			"border",
+			"width",
+			"height",
+			"HEAD",
+			"cheerio",
+			"user_name",
+			"tempVars",
+			"*****",
+			"icon-livecode-yellow.png",
+			"filter",
+			"header",
+			"require(\"3vot\")(require(\"../package\"))",
+			"getDependencyName",
+			"console",
+			"live",
+			"cover",
+			"	height: 100%;\n	width: 100%;",
+			"title",
+			"menu",
+			";\n",
+			"input",
+			"weight",
+			"ThreeVotApiController",
+			"console",
+			"des",
+			"create",
+			"refresh",
+			"changeID",
+			"create",
+			"toJSON",
+			"q",
+			"getMainField",
+			"main",
+			"query",
+			"from",
+			"tipo",
+			"string",
+			"active",
+			"_cate",
+			"\"id",
+			"id",
+			"2618",
+			"}],",
+			"function (model) {",
+			"\"id\"",
+			"getColumns",
+			"\"id\"",
+			"getColumns",
+			".all",
+			"getColumns",
+			"/spec",
+			"spec",
+			".all",
+			"all",
+			"Model",
+			"find",
+			"console",
+			"console.dir",
+			"toFilter",
+			".all",
+			"all",
+			"find",
+			"fromDatabase",
+			"toDatabase",
+			"fromDatabase",
+			"find",
+			"dir",
+			"console",
+			"find"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"Process.current",
+			"Sfc_Controller",
+			"\":",
+			":",
+			"",
+			"Run",
+			"48",
+			"Opportunity",
+			"#d2a200",
+			"Custom",
+			"Source Sans Pro",
+			"Source+Sans+Pro",
+			"desktop",
+			"package.name",
+			"data.htmlData",
+			"Listing",
+			"..",
+			"",
+			"../images",
+			"*/assets/",
+			"*/",
+			"gardens",
+			"user_name",
+			"app_name",
+			"show_header"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/classes/r2_MandrillService.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1613,
+								1613
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/r2_MandrillTo.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/classes/r2_MandrillMetadata.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/classes/r2_MandrillMergeVar.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/classes/r2_MandrillCalloutMock.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".gitignore",
+							"hasHeader": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/classes/r2_IMandrillOperation.cls-meta.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 174,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/classes/r2_MandrillService_Test.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 30.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Mandrill.sublime-settings",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/classes/r2_IMandrillOperation.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/classes/r2_Mandrill_Lead_Sample.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"hasHeader": false,
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Mandrill.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mock",
+				"src/classes/Test_CalloutMock.cls"
+			],
+			[
+				"remote",
+				"src/classes/RemoteTKController.cls"
+			],
+			[
+				"help",
+				"src/classes/HelperObjectCreator.cls"
+			],
+			[
+				"controll",
+				"src/classes/Controller_Documentos.cls"
+			],
+			[
+				"inte",
+				"src/classes/InterfaceOperacion.cls"
+			],
+			[
+				"docume",
+				"src/classes/DocumentoException.cls"
+			],
+			[
+				"facto",
+				"src/classes/FactoryOperacion.cls"
+			],
+			[
+				"operaciondevolucionmalo",
+				"src/classes/OperacionDevolucionMalo.cls"
+			],
+			[
+				"helper",
+				"src/classes/Helper_ObjectCreator.cls"
+			],
+			[
+				"hel",
+				"src/classes/Helper_BusinessRules.cls"
+			],
+			[
+				"helperbj",
+				"src/classes/Helper_ObjectCreator.cls"
+			],
+			[
+				"i",
+				"src/classes/InterfaceOperacion.cls"
+			],
+			[
+				"spec",
+				"src/classes/SpecificModels.cls"
+			],
+			[
+				"spe",
+				"src/classes/SpecificModelSelector.cls"
+			],
+			[
+				"maintenancetak",
+				"src/classes/MaintenanceTaskSelector.cls"
+			],
+			[
+				"maint",
+				"src/classes/MaintenanceTasks.cls"
+			],
+			[
+				"sp",
+				"src/classes/SpecificModels.cls"
+			],
+			[
+				"mainte",
+				"src/classes/MaintenanceTaskSelector.cls"
+			],
+			[
+				"speci",
+				"src/classes/SpecificModelSelector.cls"
+			],
+			[
+				"maintenancepl",
+				"src/classes/MaintenancePlanSelector.cls"
+			],
+			[
+				"specifi",
+				"src/classes/SpecificModelSelector.cls"
+			],
+			[
+				"selector",
+				"src/classes/MaintenanceTaskSelector.cls"
+			],
+			[
+				"task",
+				"src/classes/MaintenanceTaskSelector.cls"
+			],
+			[
+				"s",
+				"src/objects/Site.object"
+			],
+			[
+				"main",
+				"src/classes/MaintenancePlanSelector.cls"
+			],
+			[
+				"mainten",
+				"src/classes/MaintenanceTaskSelector.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
